@@ -1,0 +1,20 @@
+
+PROJECT NAME :Hospital Management
+Name 	: MD. Zahedul ISlam
+ID	: 1246555
+--------------------------------------------------------------------------
+Admin:
+-----------
+Username 	:  Zahed
+Password	: Zahed@123
+
+Project Overview:
+===============
+1. Patient Book an Appointment (Without loging)
+2.login to view his or her Dashboard.
+3.Defending on the role, the Dashboard menue will change.
+4.Mail verification(After register he/she can't login before email confirmation.)
+5.User Can Password Reset.
+6.After Login Admin Can Edit Patient or Doctor Data.
+
+
